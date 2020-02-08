@@ -4,13 +4,13 @@ public class Driver {
 public static void main(String args[]) {
 
 	Candy candy=new Candy();
-	candy.setInfo("Snehith", "Ram", "Snickers");
+	candy.setInfo("Aswin", "Rakesh", "Snickers");
 	candy.getInfo();
 	
 	System.out.println();
 	
 	Sweet sweet=new Sweet();
-	sweet.setInfo("Snehith", "Vamsi", "GulabJamun");
+	sweet.setInfo("Aswin", "Vamsi", "GulabJamun");
 	sweet.getInfo();
 	System.out.println();
 	
